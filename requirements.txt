@@ -115,7 +115,7 @@ python-socketio==1.8.3
 pytz==2017.2
 pywal==1.3.3
 pyxdg==0.26
-PyYAML==3.12
+PyYAML==5.4
 pyzmq==16.0.3
 qrcode==6.0
 qtconsole==4.3.1
