@@ -100,7 +100,7 @@ pycups==1.9.73
 pycurl==7.43.0.1
 pygdbmi==0.7.4.5
 pygit2==0.26.3
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.26.1
 Pykka==1.2.1
 pylint==1.7.2
