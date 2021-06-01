@@ -143,7 +143,7 @@ traitlets==4.3.2
 tzlocal==1.5.1
 udiskie==1.7.2
 uritemplate==3.0.0
-urllib3==1.21.1
+urllib3==1.26.5
 urwid==2.0.1
 vdirsyncer==0.16.4
 virtualenv==15.1.0
