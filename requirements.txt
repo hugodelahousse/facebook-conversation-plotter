@@ -137,7 +137,7 @@ team==1.0
 terminado==0.6
 terminaltables==3.1.0
 testpath==0.3.1
-thefuck==3.24
+thefuck==3.31
 tornado==4.5.2
 traitlets==4.3.2
 tzlocal==1.5.1
